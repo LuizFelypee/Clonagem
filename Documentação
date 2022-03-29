@@ -1,0 +1,8 @@
+Primeira etapa: Copiar a ISO do Hiren´s BootCD para a pasta (C:)
+Download Hiren´s BootCD https://www.hirensbootcd.org/download/
+
+Segunda etapa:  Desligar a maquina e selecionar o HBCD_PE
+Terceira etapa: Ligar a maquina com a ISO selecionada na porta sata 0
+Quarta etapa:   Depois de inicializar a maquina selecionar Utilities> Hard Disk Tools> Imaging e clonar o disco do Windowns para algum amarzenamento vazio minimo 150GB
+Quinta etapa:   Assim que copiar tudo, desligar a maquina e mudar a porta sata do seu disco clonado para a porta 0
+  
